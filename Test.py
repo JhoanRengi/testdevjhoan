@@ -3,6 +3,6 @@ num2 = (int(input('Ingresa otro número: ')))
 
 op = num1 + num2
 
-print(op)
+print(f"El resultado de la suma es{op}")    
 
 
